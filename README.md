@@ -59,6 +59,15 @@ The rise of sophisticated image editing tools has increased the prevalence of fo
 - **Mobile Development:** Flutter framework for cross-platform application.
 - **Machine Learning Framework:** TensorFlow Lite for mobile model integration.
 
+## Contributing
+We welcome contributions to improve DEEPFORGE. Please follow these steps:
+
+- Fork the repository.
+- Create a new branch (git checkout -b feature/your-feature-name).
+- Commit your changes (git commit -m 'Add some feature').
+- Push to the branch (git push origin feature/your-feature-name).
+- pen a pull request.
+
 ## Installation
 
 1. Clone the repository:
